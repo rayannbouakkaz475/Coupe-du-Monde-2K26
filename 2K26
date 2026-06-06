@@ -1,0 +1,24 @@
+# Application iPhone - Coupe du Monde 2026
+
+Ce dossier contient ta web-app iPhone prête pour GitHub Pages.
+
+## Fichiers inclus
+
+- `index.html` : l’application
+- `manifest.json` : configuration web-app
+- `icon-180.png` : icône iPhone
+- `icon-512.png` : icône navigateur/PWA
+
+## Installation avec GitHub Pages
+
+1. Crée un dépôt GitHub public nommé `coupe-du-monde-2026`.
+2. Envoie tous les fichiers de ce dossier dans le dépôt.
+3. Va dans `Settings → Pages`.
+4. Source : `Deploy from a branch`.
+5. Branch : `main`.
+6. Folder : `/(root)`.
+7. Clique sur `Save`.
+8. Ouvre l’adresse GitHub Pages dans Safari sur iPhone.
+9. Appuie sur `Partager → Sur l’écran d’accueil → Ajouter`.
+
+Les scores sont enregistrés dans le navigateur de l’iPhone.
